@@ -16,6 +16,9 @@
         <module>mall-ware</module>
         <module>mall-product</module>
         <module>mall-order</module>
+        <module>mall-common</module>
+        <!--        <module>mall-common</module>-->
+        <!--        <module>renren-fast</module>-->
     </modules>
 
 </project>
